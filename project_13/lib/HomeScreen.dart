@@ -38,7 +38,7 @@ class _HomescreenState extends State<Homescreen> {
             child:  Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                 const SizedBox(height: 20,),
+                const SizedBox(height: 20,),
                 const Center(
                   child: Text("Average Marker",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30),),
                 ),
